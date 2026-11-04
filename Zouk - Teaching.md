@@ -4,8 +4,6 @@
 
 > ⚠️ add moving the popcorn butter
 
-70-75 bpm. 85 is fast. 60-70 is slow. 
-
 I teach dance sense -- not Zouk or Bachata. Common sense between both.
 - balanced
 - controlled

@@ -130,9 +130,20 @@
   "file-explorer:reveal-active-file": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Shift"
       ],
       "key": "O"
+    }
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "workspace:copy-full-path": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
     }
   ]
 }
