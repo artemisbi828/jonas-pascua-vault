@@ -5,7 +5,7 @@
 [[Learning - Testing Framework vs Harness]]
 [[Learning - Snowflake RBAC]]
 [[Continuous Integration Continuous Delivery or Deployment|CI/CD]]
-[[Anti Pattern]]
+[[03-toolkit/Anti Pattern]]
 
 [[Learning - Write → Compile → Runtime → Output]]
 

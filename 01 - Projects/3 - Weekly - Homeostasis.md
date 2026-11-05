@@ -1,2 +1,0 @@
-- [ ] Use watch for phone calls
-- [ ] 

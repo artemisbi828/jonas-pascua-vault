@@ -245,5 +245,5 @@ dv.table(["Week", "Status"], weeklySummary);
 	- [ ] 2 CRM Calls - Social (Practice) ^d4
 	- [ ] 2 CRM Calls - Professional ^d5
 - [ ] Baby Projects @ $25/month
-	- [ ] [[Mary-Townsend (T) Bourque]] ^m1
+	- [ ] [[04 - People/Mary-Townsend (T) Bourque]] ^m1
 	- [ ] 

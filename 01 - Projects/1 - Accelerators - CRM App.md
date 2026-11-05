@@ -10,13 +10,9 @@ GOALS:
 	2. [LLM - Gem]: Define a Concept, 
 
 
-
 # Milestones
 - [] M1: Shuffle columns | Due:: 2026-03-06 ^m1
 - [] M2: Faster Recall | BlockId + use Ctrl+Mouseover -- commonly used things
-
-
-Start with Obsidian
 
 
 
