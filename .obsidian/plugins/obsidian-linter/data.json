@@ -277,13 +277,7 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
-  "filesToIgnore": [
-    {
-      "match": "^Materialized\\.md$",
-      "flags": "",
-      "label": ""
-    }
-  ],
+  "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
