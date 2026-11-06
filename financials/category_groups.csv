@@ -1,0 +1,10 @@
+﻿1,Expenses - Business,Expenses Variable,9
+3,Expenses - Short Term,Expenses Variable,6
+4,Government Taxes and Fees,Expenses Fixed,2
+5,Holding / Transfer Account,Suspense Account,10
+6,Income,Income,1
+7,Expenses - Overhead (Fxd),Expenses Fixed,3
+8,Expenses - Travel,Expenses Variable,7
+9,Expenses - Health,Expenses Fixed,8
+10,Expenses - Overhead (Var),Expenses Variable,4
+11,Expenses - Long Term,Expenses Variable,5
