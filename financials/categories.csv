@@ -1,0 +1,51 @@
+﻿1,Payroll,1,NULL,6
+2,Freelance,99,NULL,6
+3,"Security Deposits, Holds",99,NULL,5
+4,Accounts,99,NULL,6
+5,Debit Transfer - Credit Cards,99,NULL,5
+6,Rent,7,NULL,7
+8,ElectricityGas,8,NULL,10
+9,Internet(Fixed),9,NULL,7
+10,Insurance-Home(Fixed),11,NULL,7
+11,CarPayment(Fixed),12,NULL,7
+12,CarMaintenance,14,NULL,10
+13,Govt,6,NULL,4
+14,Groceries - Eating In,3,NULL,3
+15,Furniture + Fixtures,4,NULL,11
+16,Gas,32,NULL,10
+17,Services,27,NULL,3
+18,RX,14,NULL,9
+19,Doctor,15,NULL,9
+20,"EatingOut, Coffee",2,NULL,3
+22,Drinking Out,2,NULL,3
+23,Toys,29,NULL,11
+24,Gifts,30,NULL,11
+25,"Clothing, Style",24,NULL,11
+26,"Travel: Uber, Subways, General",5,NULL,8
+27,Travel: Accommodations,5,NULL,8
+28,Travel: Tolls,5,NULL,8
+31,Telephone,10,NULL,7
+32,Household - Toiletries,3,NULL,3
+33,ArtemisExpenses,38,NULL,1
+34,DryCleaning,23,NULL,3
+35,Office,25,NULL,11
+36,Insurance-Car,13,NULL,7
+37,Vision,18,NULL,9
+38,Dental,17,NULL,9
+39,Psych,16,NULL,9
+40,Gov't Expense,6,NULL,4
+41,Gov't Income,7,NULL,6
+42,"Vape, Recreationals",6,NULL,3
+43,Dance,22,NULL,3
+44,Travel: Scooters,5,NULL,8
+45,"Movies, Wuxia, Entertainment",6,NULL,3
+46,Travel: Moving,5,NULL,8
+48,Electronics,4,NULL,11
+49,Parking,33,NULL,8
+50,"Travel: Flights, Lounges",5,NULL,8
+51,Transfer - Rosa,99,NULL,5
+52,Account: CC Fees,40,Credit card fees; posts as positive,3
+53,"Outings - Events, Hosting Guests",21,NULL,11
+54,Plants,4,NULL,11
+55,Travel: Food,5,NULL,8
+57,Reimbursement,1,NULL,6
